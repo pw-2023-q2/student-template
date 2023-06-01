@@ -1,7 +1,7 @@
-# Hello World no Github Classroom
-Projeto Hello World para aprender a usar o Github Classroom.
+# Template para projetos de PW no Codespace
 
-Você deve completar a página `index.html` com um parágrafo, no qual
-deve constar seu nome e seu RA. Além disso, incluir seu email como 
-um link o qual, ao ser clicado, direciona para o cliente de email
-do usuário.
+Esse template está configurado para criar um ambiente com as principais dependências que precisamos na aula. Para criar um novo projeto no ambiente:
+
+* Crie um novo repositório usando o template;
+* Inicie um codespace a partir do novo repositório;
+* Para criar um novo projeto NPM, digite `npm init` e siga o wizard
