@@ -20,7 +20,7 @@
 	// Configure tool-specific properties.
 	"customizations": {
 		"vscode": {
-			"extensions": ["ms-vscode.live-server"]
+			"extensions": ["ms-vscode.live-server", "mongodb.mongodb-vscode"]
 		}
 	}
 
